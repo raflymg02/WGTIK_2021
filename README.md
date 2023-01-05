@@ -1,5 +1,5 @@
 # WGTIK_2021
-Base code for personal website exercise for WGTIK 2021
+Exercise for Rafly Muhammad Ghifari's personal website
 
-example result:
-[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
+result:
+[https://adf-telkomuniv.github.io/WGTIK_2021/](https://raflymg02.github.io/WGTIK_2021/)
